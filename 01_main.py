@@ -1,7 +1,10 @@
+import os
 from bs4 import BeautifulSoup as bs
 import requests
 import numpy as np
 import openpyxl as op
+from datetime import datetime
+
 
 #get no url informado para o webscrapping
 req = requests.get("https://gruposeb.gupy.io/")
@@ -24,6 +27,11 @@ for vaga in arr_vagas:
     print(vaga)
 
 #formatar um excel com o retorno do webscrapping
+dt_hr_atual = datetime.now()
+dt_hora_atual = dt_hr_atual.strftime("%d-%m-%Y_%H-%M-%S")
+excel_dir = "excel_vagas_seb"
+os.makedirs(excel_dir, exist_ok=True)
+
 workbook = op.Workbook()
 sheet = workbook.active
 
@@ -33,4 +41,4 @@ sheet.append(head)
 for vagas in arr_vagas:
     sheet.append(vagas)
 
-workbook.save('vagas_seb.xlsx')
+workbook.save(f"{excel_dir}/vagas_seb{dt_hora_atual}.xlsx")
