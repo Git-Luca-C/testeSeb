@@ -16,9 +16,8 @@ def inject_input(driver, keys, xpath=None, id=None, css_selector=None, text=None
         input_box.click()
     else:
         input_box = WebDriverWait(driver, 120).until(EC.element_to_be_clickable((By.CSS_SELECTOR, css_selector)))
-    for i in keys:
-        input_box.send_keys(i)
-        time.sleep(.1)
+    input_box.send_keys(keys)
+    time.sleep(.1)
     time.sleep(.9)
 
 
