@@ -1,12 +1,12 @@
-### Exercícios de nivelamento para vaga Desenvolvedor Pleno/Sênior Python no grupo SEB
+## Exercícios de nivelamento para vaga Desenvolvedor Pleno/Sênior Python no grupo SEB
 
-## Para execução conforme esperado, é preciso que hajam as permissões de escrita disponíveis, pois foram implementadas funções de gerar uma "saída" da execução.
-## Sendo 1 arquivo Excel com os dados raspados no Exercício 1 e Screenshot para o Exercício 2, ambos salvos em pastas específicas para cada, dentro do projeto.
+### Para execução conforme esperado, é preciso que hajam as permissões de escrita disponíveis, pois foram implementadas funções de gerar uma "saída" da execução.
+### Sendo 1 arquivo Excel com os dados raspados no Exercício 1 e Screenshot para o Exercício 2, ambos salvos em pastas específicas para cada, dentro do projeto.
 
-## 1. Acesso ao Site de Vagas (https://gruposeb.gupy.io/):
+### 1. Acesso ao Site de Vagas (https://gruposeb.gupy.io/):
   - Objetivo: Coletar informações sobre as vagas disponíveis (Cargo, Localidade, Efetividade).
 
-## Tal exercício foi feito usando 
+#### Tal exercício foi feito usando 
 + BeautifulSoup 
 + numpy
 + openpyxl
@@ -20,10 +20,10 @@ Todos os arquivos são guardados junto a data e hora do salvamento, para melhor 
 
 
 
-## 2. Acesso ao Formulário (https://forms.office.com/r/zfipx2RFsY):
+### 2. Acesso ao Formulário (https://forms.office.com/r/zfipx2RFsY):
  - Objetivo: Preencher as informações e selecionar o flag apropriado.
 
-## Tal Exercício foi feito usando 
+#### Tal Exercício foi feito usando 
 + Selenium
 + ChromeDriverManager
 + datetime
