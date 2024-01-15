@@ -5,15 +5,142 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d94a3cee-14b7-4858-9d60-240b05d963da" name="Changes" comment="*lendo planilha excel para preenchimento do FORMS&#10;&#10;*tirando um screenshot a cada FORM preenchido">
-      <change beforePath="$PROJECT_DIR$/excel_vagas_seb/vagas_seb15-01-2024_13-11-35.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_vagas_seb/vagas_seb15-01-2024_13-12-06.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_15-01-2024_13-00-28_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_15-01-2024_13-01-27_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_15-01-2024_13-02-59.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_15-01-2024_13-05-26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_15-01-2024_13-06-16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_15-01-2024_13-07-16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_15-01-2024_13-08-19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_vagas_seb/vagas_seb.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/excel_vagas_seb/vagas_seb.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_ANALISTA INFRAESTRUTURA TI JR-Ribeirão Preto - SP_15-01-2024_14-47-13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Agente Escolar-Ribeirão Preto - SP_15-01-2024_14-43-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Agente Escolar-Ribeirão Preto - SP_15-01-2024_14-45-33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Analista Financeiro PL-Curitiba - PR_15-01-2024_14-46-54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Analista de Planejamento Financeiro Pl-Ribeirão Preto - SP_15-01-2024_14-46-14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Analista de Relacionamento Acadêmico Jr-Curitiba - PR_15-01-2024_14-46-34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Analista de operações-Brasília - DF_15-01-2024_14-45-54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistant Dean of Students-São Paulo - SP_15-01-2024_14-47-35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistente Administrativo-Vila Velha - ES_15-01-2024_14-47-56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistente Financeiro-Curitiba - PR_15-01-2024_14-53-34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistente administrativo  - COTA PCD-Ribeirão Preto - SP_15-01-2024_14-48-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistente administrativo  - PCD-Ribeirão Preto - SP_15-01-2024_14-48-39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistente de Captação-Belo Horizonte - MG_15-01-2024_14-50-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistente de Captação-Curitiba - PR_15-01-2024_14-49-41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistente de Ensino - Lower-São Paulo - SP_15-01-2024_14-52-53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistente de Ensino Fundamental 1 (Lower School)-Ribeirão Preto - SP_15-01-2024_14-51-49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistente de Ensino Fundamental 2 e Ensino Médio (Middle e High School)-Ribeirão Preto - SP_15-01-2024_14-52-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistente de Ensino Infantil (Early Years)-Ribeirão Preto - SP_15-01-2024_14-52-32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistente de Ensino-Maceió - AL_15-01-2024_14-51-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistente de Polo - Curitiba-Curitiba - PR_15-01-2024_14-53-13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistente de ensino - Early-São Paulo - SP_15-01-2024_14-51-27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Assistente de Áudio e Vídeo-São Paulo - SP_15-01-2024_14-49-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Auxiliar de Atendimento-Curitiba - PR_15-01-2024_14-53-54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Auxiliar de Enfermagem-Salvador - BA_15-01-2024_14-54-15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Auxiliar de Manutenção-Salvador - BA_15-01-2024_14-54-37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Auxiliar de Serviços Gerais - Exclusivo para PCD-Rio de Janeiro - RJ_15-01-2024_14-57-26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Auxiliar de Serviços Gerais - PCD-São Paulo - SP_15-01-2024_14-57-46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Auxiliar de Serviços Gerais PV-Florianópolis - SC_15-01-2024_14-58-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Auxiliar de Serviços Gerais-Belo Horizonte - MG_15-01-2024_14-55-22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Auxiliar de Serviços Gerais-Belo Horizonte - MG_15-01-2024_14-56-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Auxiliar de Serviços Gerais-Florianópolis - SC_15-01-2024_14-56-27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Auxiliar de Serviços Gerais-Ribeirão Preto - SP_15-01-2024_14-55-44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Auxiliar de Serviços Gerais-Ribeirão Preto - SP_15-01-2024_14-56-47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Auxiliar de Serviços Gerais-Salvador - BA_15-01-2024_14-54-59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Auxiliar de Serviços Gerais-Vitória - ES_15-01-2024_14-57-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Babá-Ribeirão Preto - SP_15-01-2024_14-58-45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Babá-Vila Velha - ES_15-01-2024_14-58-25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Banco de Talentos - Estagiário de Pedagogia-Ribeirão Preto - SP_15-01-2024_14-59-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Banco de Talentos - Professor Português (Ensino Fundamental)-Ribeirão Preto - SP_15-01-2024_15-00-26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Banco de Talentos Maceió - Professor(a) Bilíngue-Maceió - AL_15-01-2024_14-59-46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Banco de Talentos Maceió - Professor(a)-Maceió - AL_15-01-2024_14-59-25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Banco de talentos - Professor Bilíngue-Ribeirão Preto - SP_15-01-2024_15-00-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Consultor Comercial Maple Bear Poços de Caldas-Poços de Caldas - MG_15-01-2024_15-01-26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Consultor Comercial-Curitiba - PR_15-01-2024_15-01-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Consultor Comercial-Ribeirão Preto - SP_15-01-2024_15-00-45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Controlador de Acesso-São José dos Campos - SP_15-01-2024_15-02-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Controlador de acesso-Salvador - BA_15-01-2024_15-01-47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Coordenador Pedagógico Bilíngue-Brasília - DF_15-01-2024_15-03-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Coordenador Pedagógico Bilíngue-Ipatinga - MG_15-01-2024_15-03-27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Coordenador Pedagógico-Belo Horizonte - MG_15-01-2024_15-03-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Coordenador de Marketing-Ribeirão Preto - SP_15-01-2024_15-02-27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Counselor (Orientador Educacional)-Ribeirão Preto - SP_15-01-2024_15-04-08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Curriculum and Assessment Designer-São Paulo - SP_15-01-2024_15-04-29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Diretor Pedagógico-_15-01-2024_15-04-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estagiário After School-Rio de Janeiro - RJ_15-01-2024_15-05-53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estagiário Mídias-São José dos Campos - SP_15-01-2024_15-06-54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estagiário Pedagógico Bilingue-Rio de Janeiro - RJ_15-01-2024_15-07-14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estagiário Pedagógico Bilíngue-Rio de Janeiro - RJ_15-01-2024_15-07-34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estagiário de Pedagogia-Ribeirão Preto - SP_15-01-2024_15-06-13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estagiário de Relacionamento com o Cliente-Ribeirão Preto - SP_15-01-2024_15-06-33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estagiário-Ribeirão Preto - SP_15-01-2024_15-05-32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estagiários 2024-São José dos Campos - SP_15-01-2024_15-07-54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estágio 1-Brasília - DF_15-01-2024_15-08-33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estágio Bilíngue - Pedagogia ou Letras-Brasília - DF_15-01-2024_15-09-31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estágio Bilíngue-São Paulo - SP_15-01-2024_15-09-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estágio Ensino Fundamental Anos Finas e Ensino Médio - Espanhol-São José dos Campos - SP_15-01-2024_15-10-52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estágio Pedagogia-Ribeirão Preto - SP_15-01-2024_15-11-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estágio Pedagogia-São Paulo - SP_15-01-2024_15-11-31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estágio Pedagógico-Rio de Janeiro - RJ_15-01-2024_15-12-51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estágio de Biologia-Rio de Janeiro - RJ_15-01-2024_15-09-52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estágio de Geografia-Rio de Janeiro - RJ_15-01-2024_15-10-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estágio em Pedagogia-Vitória - ES_15-01-2024_15-10-32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estágio pedagogia bilíngue-Brasília - DF_15-01-2024_15-11-52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estágio pedagógico (banco de talentos) (CÓPIA)-Brasília - DF_15-01-2024_15-13-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Estágio-Ribeirão Preto - SP_15-01-2024_15-08-14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Gerente de Operações-São Paulo - SP_15-01-2024_15-13-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Guidance Counselor - Orientador Educacional-São Paulo - SP_15-01-2024_15-13-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Inspetor(a) de Alunos-Rio de Janeiro - RJ_15-01-2024_15-14-51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Inspetor-Curitiba - PR_15-01-2024_15-14-31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Integrated Design Specialist-São Paulo - SP_15-01-2024_15-15-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Monitor - Body Movement-São Paulo - SP_15-01-2024_15-16-31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Monitor Fundamental 1 (Lower School)-Ribeirão Preto - SP_15-01-2024_15-16-52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Monitor Infantil (Early Years)-Ribeirão Preto - SP_15-01-2024_15-17-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Monitor pedagógico - Artes-São Paulo - SP_15-01-2024_15-17-31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Monitor pedagógico - Lower-São Paulo - SP_15-01-2024_15-17-51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Monitor pedagógico - Música-São Paulo - SP_15-01-2024_15-18-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Monitor-Belo Horizonte - MG_15-01-2024_15-16-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Monitor-Ribeirão Preto - SP_15-01-2024_15-15-51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Oportunidade para Pessoa Com Deficiência - PCD-Belo Horizonte - MG_15-01-2024_15-18-51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Orientador Educacional-Belo Horizonte - MG_15-01-2024_15-19-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Pedagógico Bilíngue-Cachoeiro de Itapemirim - ES_15-01-2024_15-20-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Pedagógico Bilíngue-Duque de Caxias - RJ_15-01-2024_15-19-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Pedagógico Bilíngue-Duque de Caxias - RJ_15-01-2024_15-19-51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Pedagógico Bilíngue-São Paulo_15-01-2024_15-20-31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Pessoa Com Deficiência - PCD-Ribeirão Preto - SP_15-01-2024_15-20-52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Bilíngue - Early Years-São Paulo - SP_15-01-2024_15-23-56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Bilíngue Ed. Infantil e Fundamental I ( cadastro de reserva )-Brasília - DF_15-01-2024_15-24-17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Bilíngue Ed. Infantil e Fundamental I (cadastro de reserva)-Brasília - DF_15-01-2024_15-24-38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Bilíngue Ensino Fundamental II e Ensino Médio (Cadastro de Reserva)-Brasília - DF_15-01-2024_15-24-59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Bilíngue Maple Bear Sinop-Sinop - MT_15-01-2024_15-25-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Design e Projetos-São Paulo - SP_15-01-2024_15-28-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Educação Infantil e Ensino Fundamental I-Belo Horizonte - MG_15-01-2024_15-28-24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Educação Infantil e Ensino Fundamental I-Belo Horizonte - MG_15-01-2024_15-28-45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Educação Infantil e Ensino Fundamental I-Belo Horizonte_15-01-2024_15-29-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Ensino Fundamental II e Ensino Médio (Cadastro de Reserva)-Brasília - DF_15-01-2024_15-30-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Ensino Fundamental II e Ensino Médio-Belo Horizonte - MG_15-01-2024_15-29-27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Ensino Fundamental II e Ensino Médio-Belo Horizonte_15-01-2024_15-29-46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Fundamental 1 (Lower School Head Teacher)-Ribeirão Preto - SP_15-01-2024_15-30-27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Infantil (Early Years Head Teacher)-Ribeirão Preto - SP_15-01-2024_15-30-47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor Polivalente Bilíngue - Lower-São Paulo - SP_15-01-2024_15-31-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor bilíngue de Ciências Naturais - Middle e High School-São Paulo - SP_15-01-2024_15-22-54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor bilíngue de Matemática - Fundamental II e Ensino Médio-São Paulo - SP_15-01-2024_15-23-14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor bilíngue de Português - Middle e High School-São Paulo - SP_15-01-2024_15-23-35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor de Ciências Sociais para Middle e High School-São Paulo - SP_15-01-2024_15-26-00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor de Educação Infantil Bilíngue-Araxá - MG_15-01-2024_15-26-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor de Inglês - Fundamental II  - Cadastro de reserva-Brasília - DF_15-01-2024_15-26-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor de Inglês para Fundamental II e Ensino Médio-São Paulo - SP_15-01-2024_15-27-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor de Português - Fundamental II e Ensino médio - cadastro de reserva-Brasília - DF_15-01-2024_15-27-41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor de ciências bilíngue - Fundamental II  - Cadastro de reserva-Brasília - DF_15-01-2024_15-25-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor de matemática bilíngue - Fundamental II  - Cadastro de reserva-Brasília - DF_15-01-2024_15-27-22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor(a) Ed. Infantil e Fundamental I  - Banco de talentos-Brasília - DF_15-01-2024_15-22-13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor(a) Ed. Infantil e Fundamental I - Banco de talentos-Brasília - DF_15-01-2024_15-22-33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professor(a)-Recife - PE_15-01-2024_15-21-32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Professora bilíngue-Rio de Janeiro - RJ_15-01-2024_15-21-52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Recepcionista-Belo Horizonte - MG_15-01-2024_15-31-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Recepcionista-Belo Horizonte_15-01-2024_15-31-27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_School Trips Coordinator-São Paulo - SP_15-01-2024_15-32-08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Service Learning Coordinator-São Paulo - SP_15-01-2024_15-32-27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Teaching and Performance Coach (Middle School)-Ribeirão Preto - SP_15-01-2024_15-32-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Técnico de Informática-São José do Rio Preto - SP_15-01-2024_15-33-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Técnico de TI-São Paulo - SP_15-01-2024_15-33-26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_Técnico em Informática-Belo Horizonte - MG_15-01-2024_15-33-46.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +157,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2azUc5PoFOu4fH1EoHOoYllhwXP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,8 +171,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.01_main.executor": "Run",
     "Python.02_main.executor": "Run",
+    "Python.teste.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
