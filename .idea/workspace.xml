@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d94a3cee-14b7-4858-9d60-240b05d963da" name="Changes" comment="execução exercicio 2 &#10;acessar formulario- ok &#10;preencher formulario - ok &#10;&#10;Incremento de tirar print do preenchimento e salvar em uma pasta do projeto. &#10;&#10;(Necessário certificar que o scirpt tenha permissão de escrita na maquina)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_main.py" afterDir="false" />
+    <list default="true" id="d94a3cee-14b7-4858-9d60-240b05d963da" name="Changes" comment="*lendo planilha excel para preenchimento do FORMS&#10;&#10;*tirando um screenshot a cada FORM preenchido">
       <change beforePath="$PROJECT_DIR$/excel_vagas_seb/vagas_seb15-01-2024_13-11-35.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/excel_vagas_seb/vagas_seb15-01-2024_13-12-06.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_15-01-2024_13-00-28_1.png" beforeDir="false" />
@@ -16,7 +14,6 @@
       <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_15-01-2024_13-06-16.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_15-01-2024_13-07-16.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/screenshots_forms/preenchido_15-01-2024_13-08-19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,12 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705335236173</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="*lendo planilha excel para preenchimento do FORMS&#10;&#10;*tirando um screenshot a cada FORM preenchido">
+      <option name="closed" value="true" />
+      <created>1705344649443</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705344649443</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="script exercicio 1" />
     <MESSAGE value="execução exercicio 2 &#10;acessar formulario- ok &#10;preencher formulario - ok &#10;&#10;Incremento de tirar print do preenchimento e salvar em uma pasta do projeto. &#10;&#10;(Necessário certificar que o scirpt tenha permissão de escrita na maquina)" />
-    <option name="LAST_COMMIT_MESSAGE" value="execução exercicio 2 &#10;acessar formulario- ok &#10;preencher formulario - ok &#10;&#10;Incremento de tirar print do preenchimento e salvar em uma pasta do projeto. &#10;&#10;(Necessário certificar que o scirpt tenha permissão de escrita na maquina)" />
+    <MESSAGE value="*lendo planilha excel para preenchimento do FORMS&#10;&#10;*tirando um screenshot a cada FORM preenchido" />
+    <option name="LAST_COMMIT_MESSAGE" value="*lendo planilha excel para preenchimento do FORMS&#10;&#10;*tirando um screenshot a cada FORM preenchido" />
   </component>
 </project>
