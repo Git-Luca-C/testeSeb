@@ -49,6 +49,7 @@ time.sleep(2)
 # fechar o excel
 workbook.close()
 
+#lendo excel
 df = pd.read_excel(f"{excel_dir}/vagas_seb.xlsx")
 
 # iniciar o chrome
@@ -61,7 +62,7 @@ driver.get(url)
 time.sleep(1)
 
 cont = 0
-# percorrer excel
+# percorrer excel e preencher formulário
 for indice, linha in df.iloc[1:].iterrows():
     cargo = linha['Cargo']
     localidade = linha['Localidade']
